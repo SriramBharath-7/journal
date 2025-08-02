@@ -1,6 +1,5 @@
 # 📅 August 2, 2025
 
-
 ## 🧍 Personal
 
 - 🎓 Admitted into **Velammal Institute of Engineering College**
