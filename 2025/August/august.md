@@ -8,7 +8,7 @@
 
 ## 💻 Career
 
-- 🧠 Started **Hack The Box: Junior Cybersecurity Analyst** learning path
+- 🧠 Continued **Hack The Box: Junior Cybersecurity Analyst** learning path
 - 🔐 Learned about:
   - **Mobile Security** – Protecting Android/iOS from vulnerabilities
   - **IoT Security** – Securing smart devices like cameras, lights, etc.
