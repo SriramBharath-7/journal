@@ -1,1 +1,1 @@
-<img align = "center"src="./deco/mario.gif">
+![mario](./deco/mario.gif)
