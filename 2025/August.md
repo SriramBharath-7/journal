@@ -15,3 +15,19 @@
 
 --- 
 
+# 📅 August 3, 2025
+
+## 🧍 Personal
+
+- Life is **unfair** 😞.
+
+## 💻 Career
+
+- 🧠 Continued **Hack The Box: Junior Cybersecurity Analyst** learning path
+- 🔐 Learned about:
+  - **Internet Of Things Security**
+  - **Distributed Denial of Service**
+  - **Ransomware**  
+
+--- 
+
