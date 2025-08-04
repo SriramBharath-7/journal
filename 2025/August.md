@@ -36,3 +36,25 @@
 
 --- 
 
+
+# 📅 August 4, 2025
+
+## 🧍 Personal
+
+- Nothing Great 😊.
+
+## 💻 Career
+
+- 🧠 Continued **Hack The Box: Junior Cybersecurity Analyst** learning path
+- 🔐 Completed : (Introduction to Information Security)
+  - **Blue Team** 
+  - **Purple Team**
+  - **Chief Information Security Officer (CISO)**
+  - **Penetration Testers**
+  - **Security Operations Center (SOC)**
+  - **Bug Bounty Hunter**
+ 
+- 📝 Started: (Network Foundations )
+
+--- 
+
