@@ -55,6 +55,22 @@
   - **Bug Bounty Hunter**
  
 - 📝 Started: (Network Foundations )
+  - And completed this. 
 
 --- 
 
+# 📅 August 5, 2025
+
+## 🧍 Personal
+
+- I had a special moment when CH asked me if I wanted a subscription for THM or HTB to help make the Discord server cooler. I felt really happy that he asked me. I told him I was doing it because I loved the community, but he still wanted to offer it to me. I mentioned that I would collect it once I mastered the fundamentals.
+
+## 💻 Career
+
+- 🧠 I felt **Hack The Box: Junior Cybersecurity Analyst** learning path was time-consuming and a little bit hard, so,
+- 🔐 I went with Try Hack Me, which was super fun and easy.
+  - I went through **the Pre-security pathway**
+  - And finished till **How the web works**
+  - I had a lot of doubts about networking, which I cleared with my friend ChatGPT
+
+--- 
