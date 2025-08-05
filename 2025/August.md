@@ -65,6 +65,8 @@
 
 - I had a special moment when CH asked me if I wanted a subscription for THM or HTB to help make the Discord server cooler. I felt really happy that he asked me. I told him I was doing it because I loved the community, but he still wanted to offer it to me. I mentioned that I would collect it once I mastered the fundamentals.
 
+- Overall, it was a good day 😊
+
 ## 💻 Career
 
 - 🧠 I felt **Hack The Box: Junior Cybersecurity Analyst** learning path was time-consuming and a little bit hard, so,
