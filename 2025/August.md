@@ -76,3 +76,29 @@
   - I had a lot of doubts about networking, which I cleared with my friend ChatGPT
 
 --- 
+
+# 📅 August 6, 2025
+
+## 🧍 Personal
+
+- Fine
+- Overall, it was a good day 😊
+
+## 💻 Career
+
+- 🧠 I went through the networking topic
+- 🔐 Completed till Try Hack Me Linux Fundamentals part 1
+
+--- 
+
+# 📅 August 7, 2025
+
+## 🧍 Personal
+
+- 
+
+## 💻 Career
+
+- 🧠 
+
+--- 
