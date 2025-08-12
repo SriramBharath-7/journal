@@ -114,3 +114,20 @@
 - 🧠 Going through the Networking.
 
 --- 
+
+# 📅 August 8 - 12, 2025
+
+## 🧍 Personal
+
+- I went to my school to collect my original marksheet, and I visited Jai Suriyaa and had a nice time
+- After that, I went to Ooty and stayed with my dad, and it was the worst experience, and I really learned about human nature.
+- I found out that nobody cares about me
+- Overall not good
+
+## 💻 Career
+
+- 🧠 I didn't learn anything
+
+--- 
+
+
