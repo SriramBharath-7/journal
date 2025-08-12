@@ -103,18 +103,6 @@
 
 --- 
 
-# 📅 August 7, 2025
-
-## 🧍 Personal
-
-- Nothing Great
-
-## 💻 Career
-
-- 🧠 Going through the Networking.
-
---- 
-
 # 📅 August 8 - 12, 2025
 
 ## 🧍 Personal
@@ -122,7 +110,7 @@
 - I went to my school to collect my original marksheet, and I visited Jai Suriyaa and had a nice time
 - After that, I went to Ooty and stayed with my dad, and it was the worst experience, and I really learned about human nature.
 - I found out that nobody cares about me
-- Overall not good
+- Overall, not good 🥲
 
 ## 💻 Career
 
@@ -130,4 +118,15 @@
 
 --- 
 
+# 📅 August 13, 2025
+
+## 🧍 Personal
+
+- 
+
+## 💻 Career
+
+- 
+
+--- 
 
