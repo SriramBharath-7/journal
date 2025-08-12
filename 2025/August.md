@@ -95,10 +95,22 @@
 
 ## 🧍 Personal
 
-- 
+- Nothing Great
 
 ## 💻 Career
 
-- 🧠 
+- 🧠 Going through the Networking.
+
+--- 
+
+# 📅 August 7, 2025
+
+## 🧍 Personal
+
+- Nothing Great
+
+## 💻 Career
+
+- 🧠 Going through the Networking.
 
 --- 
