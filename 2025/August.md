@@ -122,11 +122,52 @@
 
 ## 🧍 Personal
 
-- 
+- Nothing Great
 
 ## 💻 Career
 
-- 
+- nothing
 
 --- 
+# 📅 August 14 - 17, 2025
 
+## 🧍 Personal
+
+- Off track, Went to College shopping etc..
+
+## 💻 Career
+
+- Revisiting my notes started learning ZTM(Complete Ethical Hacker Bootcamp)
+
+--- 
+# 📅 August 18, 2025
+
+## 🧍 Personal
+
+- Good
+
+## 💻 Career
+
+- 📌 What I Studied
+
+  -What is Information Gathering?
+
+  -Whois Tool: Obtaining IP Address & Physical Address
+
+  -WhatWeb Stealthy Scan
+
+  -Aggressive Website Technology Discovery on IP Range
+
+  -Same Tools Different Results (Note)
+
+  -Gathering Emails with theHarvester & Hunter.io
+
+  -Downloading Tools Online
+
+  -Finding Usernames with Sherlock
+
+  -Bonus: Email Scraper Tool in Python 3
+
+  -More About Information Gathering (Note)
+
+--- 
