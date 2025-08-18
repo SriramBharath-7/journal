@@ -149,25 +149,24 @@
 ## 💻 Career
 
 - 📌 What I Studied
+  - What is Information Gathering?
 
-  -What is Information Gathering?
+  - Whois Tool: Obtaining IP Address & Physical Address
 
-  -Whois Tool: Obtaining IP Address & Physical Address
+  - WhatWeb Stealthy Scan
 
-  -WhatWeb Stealthy Scan
+  - Aggressive Website Technology Discovery on IP Range
 
-  -Aggressive Website Technology Discovery on IP Range
+  - Same Tools Different Results (Note)
 
-  -Same Tools Different Results (Note)
+  - Gathering Emails with theHarvester & Hunter.io
 
-  -Gathering Emails with theHarvester & Hunter.io
+  - Downloading Tools Online
 
-  -Downloading Tools Online
+  - Finding Usernames with Sherlock
 
-  -Finding Usernames with Sherlock
+  - Bonus: Email Scraper Tool in Python 3
 
-  -Bonus: Email Scraper Tool in Python 3
-
-  -More About Information Gathering (Note)
+  - More About Information Gathering (Note)
 
 --- 
