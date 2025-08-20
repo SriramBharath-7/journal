@@ -149,7 +149,7 @@
 ## 💻 Career
 
 - 📌 What I Studied
-  - What is Information Gathering?
+  - What is Information Gathering? AKA Reconnaissance
 
   - Whois Tool: Obtaining IP Address & Physical Address
 
@@ -170,3 +170,72 @@
   - More About Information Gathering (Note)
 
 --- 
+# 📅 August 19, 2025
+
+## 🧍 Personal
+
+- Good
+
+## 💻 Career
+
+- 📌 What I Studied
+
+- Learned about **Nmap (Network Mapper)** → tool for network discovery & security auditing.  
+
+  ### Key Scan Types  
+  - **SYN Scan (-sS)** → stealthy & fast  
+  - **TCP Connect (-sT)** → completes handshake, less stealthy  
+  - **UDP Scan (-sU)** → finds UDP services  
+  - **Version Detection (-sV)** & **OS Detection (-O)**  
+  - **Aggressive Scan (-A)** → combines multiple scans  
+  - **Port Scans (-p, -p-)** → specific, full, or fast scans  
+  - **Host Discovery (-sn)** → ping sweep for live hosts  
+
+  ### Other Notes  
+  - Save scan results:  
+    - `-oN` → normal output  
+    - `-oX` → XML  
+    - `-oG` → grepable  
+
+ 
+
+--- 
+# 📅 August 20, 2025  
+
+## 🧍 Personal  
+
+- Great focus today, steady progress 🚀  
+
+## 💻 Career  
+
+- 📌 What I Studied  
+
+- Learned about **Vulnerability Analysis** using Nmap & SearchSploit.  
+
+  ### 🔎 Nmap Scripting Engine (NSE)  
+  - **auth** → test weak/default creds  
+  - **malware** → detect trojans/worms  
+  - **banner** → grab service banners (version info)  
+  - **exploit** → test known exploits (⚠️ only in labs)  
+  - **vuln** → CVE-based vulnerability detection  
+  - **safe / intrusive** → non-intrusive vs. aggressive scans  
+
+  ### 📂 SearchSploit (Exploit-DB)  
+  - Update DB → `searchsploit -u`  
+  - Search exploits → `searchsploit apache 2.4.49`  
+  - Show exploit path → `searchsploit -p apache 2.4.49`  
+
+  ### ✅ Vulnerability Analysis Workflow  
+  1. Run Nmap scan → `nmap -sS -sV <target_ip>`  
+  2. Use NSE scripts → check auth, malware, vuln, banner  
+  3. Cross-check findings with SearchSploit  
+  4. Verify manually → banners/versions may be misleading  
+  5. Document findings (CVE ID, exploit path, risk level)  
+
+  ### ⚡ Example Attack Chain  
+  - Found **OpenSSH 7.2** with Nmap  
+  - NSE confirmed weak login allowed  
+  - SearchSploit revealed **CVE-2016-6210** exploit  
+  - Validated in a controlled lab environment  
+---
+
