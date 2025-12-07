@@ -78,7 +78,7 @@
 
 ## 💻 Career
 
-- � Day 6 of Advent of Cyber
+- 🎄 Day 6 of Advent of Cyber
 
 - Completed the 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 – 𝐄𝐠𝐠-𝐱𝐞𝐜𝐮𝐭𝐚𝐛𝐥𝐞 room on TryHackMe! Used 𝐏𝐞𝐒𝐭𝐮𝐝𝐢𝐨, 𝐏𝐫𝐨𝐜𝐌𝐨𝐧, and 𝐑𝐞𝐠𝐬𝐡𝐨𝐭 to explore both 𝐬𝐭𝐚𝐭𝐢𝐜 and 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 analysis.
 
